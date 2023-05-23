@@ -1,4 +1,4 @@
-# StichtingSD
+# StichtingSD/ElectronTypeORMNetworkDrive
 
 A prove of concept electron-vite package that integrates TypeORM to be used with a local Network Drive, using multi-windows to provide a location selector
 
