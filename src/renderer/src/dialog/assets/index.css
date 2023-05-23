@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Open Sans', sans-serif;
+  color: #003349;
+  background-color: #ffffff;
+
+}
+body,html,#root {
+  height:100%;
+  margin:0;
+  padding:0;
+}
+.container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap:10px;
+  justify-content: center;
+  height:100%;
+  margin: 0 auto;
+  padding: 15px 30px 0 30px;
+}
